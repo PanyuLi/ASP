@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a73e22bf-8466-4887-b78b-9ac4f5a41816" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1qNfO2kpgYBQJIXiRRtSGMZSdFm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a73e22bf-8466-4887-b78b-9ac4f5a41816" name="Default Changelist" comment="" />
+      <created>1616924932070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616924932070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="197" key="SettingsEditor" timestamp="1616924941980">
+      <screen x="0" y="0" width="1664" height="1069" />
+    </state>
+    <state x="441" y="197" key="SettingsEditor/0.0.1664.1069@0.0.1664.1069" timestamp="1616924941980" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1617090194476">
+      <screen x="0" y="0" width="1664" height="1069" />
+    </state>
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1664.1069@0.0.1664.1069" timestamp="1617090194476" />
+    <state x="1090" y="261" width="672" height="678" key="search.everywhere.popup" timestamp="1616926191386">
+      <screen x="0" y="0" width="1664" height="1069" />
+    </state>
+    <state x="1090" y="261" width="672" height="678" key="search.everywhere.popup/0.0.1664.1069@0.0.1664.1069" timestamp="1616926191386" />
+  </component>
+</project>
