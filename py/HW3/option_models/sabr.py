@@ -6,8 +6,6 @@ Created on Tue Oct 10
 """
 
 import numpy as np
-import scipy.stats as ss
-import scipy.optimize as sopt
 from . import normal
 from . import bsm
 import scipy.integrate as spint
