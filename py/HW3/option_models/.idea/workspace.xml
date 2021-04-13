@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c0e3634b-3baa-4413-b3fc-893f95097f66" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectId" id="1qyFKOkTLdhITBba5rRNlcz5T0T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c0e3634b-3baa-4413-b3fc-893f95097f66" name="Default Changelist" comment="" />
+      <created>1618043858488</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618043858488</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618047270241">
+      <screen x="0" y="0" width="1664" height="1069" />
+    </state>
+    <state x="0" y="229" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1664.1069@0.0.1664.1069" timestamp="1618047270241" />
+    <state x="181" y="191" key="SettingsEditor" timestamp="1618043870221">
+      <screen x="0" y="0" width="1664" height="1069" />
+    </state>
+    <state x="181" y="191" key="SettingsEditor/0.0.1664.1069@0.0.1664.1069" timestamp="1618043870221" />
+    <state x="516" y="374" key="com.intellij.ide.util.TipDialog" timestamp="1618291651988">
+      <screen x="0" y="0" width="1664" height="1069" />
+    </state>
+    <state x="516" y="374" key="com.intellij.ide.util.TipDialog/0.0.1664.1069@0.0.1664.1069" timestamp="1618291651988" />
+  </component>
+</project>

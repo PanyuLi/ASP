@@ -9,6 +9,7 @@ import numpy as np
 import scipy.stats as ss
 import scipy.optimize as sopt
 
+
 def price(strike, spot, texp, vol, intr=0.0, divr=0.0, cp_sign=1):
     div_fac = np.exp(-texp*divr)
     disc_fac = np.exp(-texp*intr)
