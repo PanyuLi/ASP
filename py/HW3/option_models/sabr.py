@@ -209,7 +209,8 @@ class ModelBsmCondMC:
             sigma_path[i + 1, :] = sigma_path[i, :] * np.exp(self.vov * np.sqrt(dt) * z1 - 0.5 * self.vov ** 2 * dt)
         sigma0 = sigma_path[0, :]
         sigma_final = sigma_path[-1, :]
-        int_var = np.mean(sigma_path ** 2, axis=0)
+        # int_var = np.mean(sigma_path ** 2, axis=0)
+        int_var = spint.simps(sigma_path ** 2, dx=1, axis=0) / 100
 
         spot_mc = spot * np.exp(self.rho * (sigma_final - sigma0) / self.vov - 0.5 * self.rho ** 2 * int_var)
         vol = np.sqrt((1 - self.rho ** 2) * int_var / texp)
@@ -296,8 +297,8 @@ class ModelNormalCondMC:
             sigma_path[i + 1, :] = sigma_path[i, :] * np.exp(self.vov * np.sqrt(dt) * z1 - 0.5 * self.vov ** 2 * dt)
         sigma0 = sigma_path[0, :]
         sigma_final = sigma_path[-1, :]
-        int_var = np.mean(sigma_path ** 2, axis=0)
-        # int_var = spint.simps(sigma_path ** 2, dx=1, axis=0) / 100
+        # int_var = np.mean(sigma_path ** 2, axis=0)
+        int_var = spint.simps(sigma_path ** 2, dx=1, axis=0) / 100
 
         spot_mc = spot + self.rho * (sigma_final - sigma0) / self.vov
         vol = np.sqrt((1 - self.rho ** 2) * int_var / texp)
